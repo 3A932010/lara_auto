@@ -1,0 +1,15 @@
+{
+    "name": "lai/lara_auto",
+    "autoload": {
+        "psr-4": {
+            "Lai\\LaraAuto\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "3A932010",
+            "email": "jack37699646@gmail.com"
+        }
+    ],
+    "require": {}
+}
